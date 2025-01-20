@@ -1,2 +1,2 @@
 # simon-game
-its simon game for boosting memory and increasing focus
+It`s simon game for Boasting memory and increasing Focus
